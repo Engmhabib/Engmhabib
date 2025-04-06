@@ -8,7 +8,7 @@
 - 🎓 Ai and Applied Data Science student from Indiana University–Purdue University Indianapolis,USA
 - 🛠️ I have a strong background as an Embedded Systems Engineer, and now I'm combining that experience with a passion for AI.
 - 💻 Check out my work and projects: [My Portfolio](https://mh-agrebi.com/)
-- 📫 How to reach me: **magrebi@iu.edu**
+- 📫 How to reach me: **habibagrebi7@gmail.com**
 - 👀 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/agrebi-mohamed-habib-4b767b13b/)
 
 
