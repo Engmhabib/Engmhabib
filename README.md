@@ -15,10 +15,18 @@ Passionate about creating intelligent solutions through AI, Data Science, and Em
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### 🚀 Projects
 
-- ![Agent AI](https://img.shields.io/badge/Agent%20AI-4C6EF5?style=flat&logo=openai&logoColor=white)
+- ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-4C6EF5?style=flat&logo=openai&logoColor=white)
+- ![LLMs](https://img.shields.io/badge/LLMs-FF69B4?style=flat&logo=huggingface&logoColor=white)
+- ![RAG](https://img.shields.io/badge/RAG-FFD700?style=flat&logo=readthedocs&logoColor=black)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-47A248?style=flat&logo=scikitlearn&logoColor=white)
 
 ### 🌐 Connect With Me
 
