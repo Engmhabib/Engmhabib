@@ -1,14 +1,32 @@
 # Hi 👋, I'm Mohamed Habib Agrebi
 
-## AI Engineer | Former Embedded Systems Engineer | Data Science Enthusiast
+### AI Engineer | Data Science Enthusiast | Embedded Systems Expert
 
-![Profile views](https://komarev.com/ghpvc/?username=Engmhabib)
+![Profile Views](https://komarev.com/ghpvc/?username=Engmhabib)
 
-- 🔭 I’m a Research Scientist in AI and Machine Learning.
-- 🎓 Ai and Applied Data Science student from Indiana University–Purdue University Indianapolis,USA
-- 🛠️ I have a strong background as an Embedded Systems Engineer, and now I'm combining that experience with a passion for AI.
-- 💻 Check out my work and projects: [My Portfolio](https://mh-agrebi.com/)
-- 📫 How to reach me: **habibagrebi7@gmail.com**
-- 👀 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/agrebi-mohamed-habib-4b767b13b/)
+Passionate about creating intelligent solutions through AI, Data Science, and Embedded Systems.
 
+### 💻 Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+### 🚀 Projects
+
+- ![Agent AI](https://img.shields.io/badge/Agent%20AI-4C6EF5?style=flat&logo=openai&logoColor=white)
+
+### 🌐 Connect With Me
+
+- [Portfolio](https://mh-agrebi.com)
+- [LinkedIn](https://www.linkedin.com/in/agrebi-mohamed-habib-4b767b13b/)
+- [Email](mailto:habibagrebi7@gmail.com)
+
+---
+
+Let's collaborate on innovative AI and technology projects!
 
