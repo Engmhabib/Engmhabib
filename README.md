@@ -6,6 +6,8 @@
 
 Passionate about creating intelligent solutions through AI, Data Science, and Embedded Systems.
 
+🌟 **Total GitHub Stars:** 25 (across all public repositories)
+
 ### 💻 Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
