@@ -6,7 +6,7 @@
 
 Passionate about creating intelligent solutions through AI, Data Science, and Embedded Systems.
 
-🌟 **Total GitHub Stars:** 25 (across all public repositories)
+🌟 **Total GitHub Stars:** 35 
 
 ### 💻 Technical Skills
 
