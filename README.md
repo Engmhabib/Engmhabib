@@ -32,7 +32,7 @@ Passionate about creating intelligent solutions through AI, Data Science, and Em
 
 ### 🌐 Connect With Me
 
-- [Portfolio](https://m.habib.agrebi.com)
+- [Portfolio](https://m-habib-agrebi.com)
 - [LinkedIn](https://www.linkedin.com/in/agrebi-mohamed-habib-4b767b13b/)
 - [Email](mailto:habibagrebi7@gmail.com)
 
